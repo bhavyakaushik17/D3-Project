@@ -1,0 +1,817 @@
+year,species,prob
+1909,Carbohydrate,0.385030864
+1909,Fiber,0.022376543
+1909,Protein,0.077932099
+1909,Fat,0.091820988
+1909,Saturated Fatty Acids,0.038580247
+1909,Monounsaturated Fatty Acids,0.034722222
+1909,Polyunsaturated Fatty Acids,0.010030864
+1909,Cholesterol,0.339506173
+1910,Carbohydrate,0.386645963
+1910,Fiber,0.022515528
+1910,Protein,0.076863354
+1910,Fat,0.090838509
+1910,Saturated Fatty Acids,0.038043478
+1910,Monounsaturated Fatty Acids,0.034161491
+1910,Polyunsaturated Fatty Acids,0.00931677
+1910,Cholesterol,0.341614907
+1911,Carbohydrate,0.377880184
+1911,Fiber,0.021505376
+1911,Protein,0.075268817
+1911,Fat,0.0906298
+1911,Saturated Fatty Acids,0.037634409
+1911,Monounsaturated Fatty Acids,0.034562212
+1911,Polyunsaturated Fatty Acids,0.00921659
+1911,Cholesterol,0.353302611
+1912,Carbohydrate,0.385758998
+1912,Fiber,0.021909233
+1912,Protein,0.076682316
+1912,Fat,0.089984351
+1912,Saturated Fatty Acids,0.037558685
+1912,Monounsaturated Fatty Acids,0.034428795
+1912,Polyunsaturated Fatty Acids,0.009389671
+1912,Cholesterol,0.34428795
+1913,Carbohydrate,0.388318863
+1913,Fiber,0.022099448
+1913,Protein,0.0765588
+1913,Fat,0.091554854
+1913,Saturated Fatty Acids,0.037884767
+1913,Monounsaturated Fatty Acids,0.034727703
+1913,Polyunsaturated Fatty Acids,0.009471192
+1913,Cholesterol,0.339384373
+1914,Carbohydrate,0.385103011
+1914,Fiber,0.021394612
+1914,Protein,0.075277338
+1914,Fat,0.093502377
+1914,Saturated Fatty Acids,0.038034865
+1914,Monounsaturated Fatty Acids,0.035657686
+1914,Polyunsaturated Fatty Acids,0.010301109
+1914,Cholesterol,0.340729002
+1915,Carbohydrate,0.383942766
+1915,Fiber,0.022257552
+1915,Protein,0.074721781
+1915,Fat,0.093004769
+1915,Saturated Fatty Acids,0.038155803
+1915,Monounsaturated Fatty Acids,0.035771065
+1915,Polyunsaturated Fatty Acids,0.010333863
+1915,Cholesterol,0.341812401
+1916,Carbohydrate,0.379614767
+1916,Fiber,0.021669342
+1916,Protein,0.074638844
+1916,Fat,0.093900482
+1916,Saturated Fatty Acids,0.038523274
+1916,Monounsaturated Fatty Acids,0.03611557
+1916,Polyunsaturated Fatty Acids,0.010433387
+1916,Cholesterol,0.345104334
+1917,Carbohydrate,0.387838948
+1917,Fiber,0.023007395
+1917,Protein,0.075595727
+1917,Fat,0.092851274
+1917,Saturated Fatty Acids,0.037797864
+1917,Monounsaturated Fatty Acids,0.036154478
+1917,Polyunsaturated Fatty Acids,0.009860312
+1917,Cholesterol,0.336894002
+1918,Carbohydrate,0.377419355
+1918,Fiber,0.021774194
+1918,Protein,0.075806452
+1918,Fat,0.097580645
+1918,Saturated Fatty Acids,0.039516129
+1918,Monounsaturated Fatty Acids,0.037903226
+1918,Polyunsaturated Fatty Acids,0.011290323
+1918,Cholesterol,0.338709677
+1919,Carbohydrate,0.380952381
+1919,Fiber,0.021428571
+1919,Protein,0.073809524
+1919,Fat,0.095238095
+1919,Saturated Fatty Acids,0.038888889
+1919,Monounsaturated Fatty Acids,0.037301587
+1919,Polyunsaturated Fatty Acids,0.011111111
+1919,Cholesterol,0.341269841
+1920,Carbohydrate,0.374898126
+1920,Fiber,0.021189894
+1920,Protein,0.074164629
+1920,Fat,0.093724531
+1920,Saturated Fatty Acids,0.039119804
+1920,Monounsaturated Fatty Acids,0.035859821
+1920,Polyunsaturated Fatty Acids,0.010594947
+1920,Cholesterol,0.350448248
+1921,Carbohydrate,0.369294606
+1921,Fiber,0.020746888
+1921,Protein,0.073029046
+1921,Fat,0.094605809
+1921,Saturated Fatty Acids,0.039834025
+1921,Monounsaturated Fatty Acids,0.034854772
+1921,Polyunsaturated Fatty Acids,0.010788382
+1921,Cholesterol,0.356846473
+1922,Carbohydrate,0.377725857
+1922,Fiber,0.020249221
+1922,Protein,0.07165109
+1922,Fat,0.09423676
+1922,Saturated Fatty Acids,0.039719626
+1922,Monounsaturated Fatty Acids,0.035046729
+1922,Polyunsaturated Fatty Acids,0.010903427
+1922,Cholesterol,0.35046729
+1923,Carbohydrate,0.362662586
+1923,Fiber,0.020657995
+1923,Protein,0.071920428
+1923,Fat,0.09716909
+1923,Saturated Fatty Acids,0.04055088
+1923,Monounsaturated Fatty Acids,0.036725325
+1923,Polyunsaturated Fatty Acids,0.010711553
+1923,Cholesterol,0.359602142
+1924,Carbohydrate,0.366261398
+1924,Fiber,0.019756839
+1924,Protein,0.071428571
+1924,Fat,0.097264438
+1924,Saturated Fatty Acids,0.041033435
+1924,Monounsaturated Fatty Acids,0.036474164
+1924,Polyunsaturated Fatty Acids,0.010638298
+1924,Cholesterol,0.357142857
+1925,Carbohydrate,0.366186505
+1925,Fiber,0.019711903
+1925,Protein,0.070507961
+1925,Fat,0.097801365
+1925,Saturated Fatty Acids,0.040940106
+1925,Monounsaturated Fatty Acids,0.037149356
+1925,Polyunsaturated Fatty Acids,0.011372252
+1925,Cholesterol,0.356330553
+1926,Carbohydrate,0.366091523
+1926,Fiber,0.019504876
+1926,Protein,0.069767442
+1926,Fat,0.096774194
+1926,Saturated Fatty Acids,0.040510128
+1926,Monounsaturated Fatty Acids,0.036009002
+1926,Polyunsaturated Fatty Acids,0.011252813
+1926,Cholesterol,0.360090023
+1927,Carbohydrate,0.366017964
+1927,Fiber,0.019461078
+1927,Protein,0.070359281
+1927,Fat,0.096556886
+1927,Saturated Fatty Acids,0.040419162
+1927,Monounsaturated Fatty Acids,0.036676647
+1927,Polyunsaturated Fatty Acids,0.011227545
+1927,Cholesterol,0.359281437
+1928,Carbohydrate,0.371428571
+1928,Fiber,0.019548872
+1928,Protein,0.069924812
+1928,Fat,0.096992481
+1928,Saturated Fatty Acids,0.040601504
+1928,Monounsaturated Fatty Acids,0.036842105
+1928,Polyunsaturated Fatty Acids,0.011278195
+1928,Cholesterol,0.353383459
+1929,Carbohydrate,0.365558912
+1929,Fiber,0.020392749
+1929,Protein,0.070241692
+1929,Fat,0.098942598
+1929,Saturated Fatty Acids,0.041540785
+1929,Monounsaturated Fatty Acids,0.037009063
+1929,Polyunsaturated Fatty Acids,0.011329305
+1929,Cholesterol,0.354984894
+1930,Carbohydrate,0.370795107
+1930,Fiber,0.019877676
+1930,Protein,0.069571865
+1930,Fat,0.098623853
+1930,Saturated Fatty Acids,0.041284404
+1930,Monounsaturated Fatty Acids,0.036697248
+1930,Polyunsaturated Fatty Acids,0.01146789
+1930,Cholesterol,0.351681957
+1931,Carbohydrate,0.363987635
+1931,Fiber,0.020092736
+1931,Protein,0.070324575
+1931,Fat,0.099690881
+1931,Saturated Fatty Acids,0.041731066
+1931,Monounsaturated Fatty Acids,0.037094281
+1931,Polyunsaturated Fatty Acids,0.011591963
+1931,Cholesterol,0.355486862
+1932,Carbohydrate,0.362123613
+1932,Fiber,0.019809826
+1932,Protein,0.071315372
+1932,Fat,0.099841521
+1932,Saturated Fatty Acids,0.04199683
+1932,Monounsaturated Fatty Acids,0.037242472
+1932,Polyunsaturated Fatty Acids,0.011093502
+1932,Cholesterol,0.356576862
+1933,Carbohydrate,0.356230032
+1933,Fiber,0.019968051
+1933,Protein,0.071086262
+1933,Fat,0.100638978
+1933,Saturated Fatty Acids,0.04313099
+1933,Monounsaturated Fatty Acids,0.037539936
+1933,Polyunsaturated Fatty Acids,0.011980831
+1933,Cholesterol,0.35942492
+1934,Carbohydrate,0.350961538
+1934,Fiber,0.020032051
+1934,Protein,0.071314103
+1934,Fat,0.103365385
+1934,Saturated Fatty Acids,0.043269231
+1934,Monounsaturated Fatty Acids,0.038461538
+1934,Polyunsaturated Fatty Acids,0.012019231
+1934,Cholesterol,0.360576923
+1935,Carbohydrate,0.366942149
+1935,Fiber,0.021487603
+1935,Protein,0.07107438
+1935,Fat,0.100826446
+1935,Saturated Fatty Acids,0.042975207
+1935,Monounsaturated Fatty Acids,0.038016529
+1935,Polyunsaturated Fatty Acids,0.011570248
+1935,Cholesterol,0.347107438
+1936,Carbohydrate,0.3576
+1936,Fiber,0.0208
+1936,Protein,0.072
+1936,Fat,0.1032
+1936,Saturated Fatty Acids,0.0432
+1936,Monounsaturated Fatty Acids,0.0392
+1936,Polyunsaturated Fatty Acids,0.012
+1936,Cholesterol,0.352
+1937,Carbohydrate,0.355932203
+1937,Fiber,0.020177563
+1937,Protein,0.071832123
+1937,Fat,0.10330912
+1937,Saturated Fatty Acids,0.042776433
+1937,Monounsaturated Fatty Acids,0.03874092
+1937,Polyunsaturated Fatty Acids,0.012106538
+1937,Cholesterol,0.355125101
+1938,Carbohydrate,0.355932203
+1938,Fiber,0.020177563
+1938,Protein,0.071832123
+1938,Fat,0.10330912
+1938,Saturated Fatty Acids,0.042776433
+1938,Monounsaturated Fatty Acids,0.03874092
+1938,Polyunsaturated Fatty Acids,0.012106538
+1938,Cholesterol,0.355125101
+1939,Carbohydrate,0.350507416
+1939,Fiber,0.020296643
+1939,Protein,0.071038251
+1939,Fat,0.103825137
+1939,Saturated Fatty Acids,0.043715847
+1939,Monounsaturated Fatty Acids,0.039032006
+1939,Polyunsaturated Fatty Acids,0.012490242
+1939,Cholesterol,0.359094457
+1940,Carbohydrate,0.341368585
+1940,Fiber,0.019440124
+1940,Protein,0.071539658
+1940,Fat,0.105754277
+1940,Saturated Fatty Acids,0.044323484
+1940,Monounsaturated Fatty Acids,0.039657854
+1940,Polyunsaturated Fatty Acids,0.01244168
+1940,Cholesterol,0.365474339
+1941,Carbohydrate,0.347328244
+1941,Fiber,0.019083969
+1941,Protein,0.071755725
+1941,Fat,0.10610687
+1941,Saturated Fatty Acids,0.044274809
+1941,Monounsaturated Fatty Acids,0.039694656
+1941,Polyunsaturated Fatty Acids,0.012977099
+1941,Cholesterol,0.358778626
+1942,Carbohydrate,0.332574032
+1942,Fiber,0.019741838
+1942,Protein,0.074411541
+1942,Fat,0.104783599
+1942,Saturated Fatty Acids,0.043280182
+1942,Monounsaturated Fatty Acids,0.039483675
+1942,Polyunsaturated Fatty Acids,0.013667426
+1942,Cholesterol,0.372057707
+1943,Carbohydrate,0.331086142
+1943,Fiber,0.019475655
+1943,Protein,0.076404494
+1943,Fat,0.10411985
+1943,Saturated Fatty Acids,0.041198502
+1943,Monounsaturated Fatty Acids,0.039700375
+1943,Polyunsaturated Fatty Acids,0.013483146
+1943,Cholesterol,0.374531835
+1944,Carbohydrate,0.327394209
+1944,Fiber,0.019302153
+1944,Protein,0.075723831
+1944,Fat,0.10393467
+1944,Saturated Fatty Acids,0.041573868
+1944,Monounsaturated Fatty Acids,0.040089087
+1944,Polyunsaturated Fatty Acids,0.013363029
+1944,Cholesterol,0.378619154
+1945,Carbohydrate,0.319321534
+1945,Fiber,0.019174041
+1945,Protein,0.077433628
+1945,Fat,0.101032448
+1945,Saturated Fatty Acids,0.040560472
+1945,Monounsaturated Fatty Acids,0.038348083
+1945,Polyunsaturated Fatty Acids,0.013274336
+1945,Cholesterol,0.390855457
+1946,Carbohydrate,0.319133034
+1946,Fiber,0.018684604
+1946,Protein,0.076980568
+1946,Fat,0.103139013
+1946,Saturated Fatty Acids,0.041106129
+1946,Monounsaturated Fatty Acids,0.03961136
+1946,Polyunsaturated Fatty Acids,0.012705531
+1946,Cholesterol,0.388639761
+1947,Carbohydrate,0.324122479
+1947,Fiber,0.017176998
+1947,Protein,0.073188947
+1947,Fat,0.103061987
+1947,Saturated Fatty Acids,0.041822255
+1947,Monounsaturated Fatty Acids,0.039581777
+1947,Polyunsaturated Fatty Acids,0.012696042
+1947,Cholesterol,0.388349515
+1948,Carbohydrate,0.31842714
+1948,Fiber,0.016962221
+1948,Protein,0.072474942
+1948,Fat,0.104086353
+1948,Saturated Fatty Acids,0.041634541
+1948,Monounsaturated Fatty Acids,0.040092521
+1948,Polyunsaturated Fatty Acids,0.01310717
+1948,Cholesterol,0.393215112
+1949,Carbohydrate,0.31919815
+1949,Fiber,0.016962221
+1949,Protein,0.072474942
+1949,Fat,0.103315343
+1949,Saturated Fatty Acids,0.041634541
+1949,Monounsaturated Fatty Acids,0.039321511
+1949,Polyunsaturated Fatty Acids,0.01387818
+1949,Cholesterol,0.393215112
+1950,Carbohydrate,0.318286151
+1950,Fiber,0.016832441
+1950,Protein,0.071920428
+1950,Fat,0.106350421
+1950,Saturated Fatty Acids,0.042081102
+1950,Monounsaturated Fatty Acids,0.04055088
+1950,Polyunsaturated Fatty Acids,0.013771997
+1950,Cholesterol,0.39020658
+1951,Carbohydrate,0.315175097
+1951,Fiber,0.016342412
+1951,Protein,0.072373541
+1951,Fat,0.104280156
+1951,Saturated Fatty Acids,0.041245136
+1951,Monounsaturated Fatty Acids,0.039688716
+1951,Polyunsaturated Fatty Acids,0.014007782
+1951,Cholesterol,0.39688716
+1952,Carbohydrate,0.312403101
+1952,Fiber,0.01627907
+1952,Protein,0.072868217
+1952,Fat,0.10620155
+1952,Saturated Fatty Acids,0.041860465
+1952,Monounsaturated Fatty Acids,0.041085271
+1952,Polyunsaturated Fatty Acids,0.013953488
+1952,Cholesterol,0.395348837
+1953,Carbohydrate,0.310747664
+1953,Fiber,0.015576324
+1953,Protein,0.073208723
+1953,Fat,0.105919003
+1953,Saturated Fatty Acids,0.042056075
+1953,Monounsaturated Fatty Acids,0.041277259
+1953,Polyunsaturated Fatty Acids,0.014018692
+1953,Cholesterol,0.397196262
+1954,Carbohydrate,0.308788599
+1954,Fiber,0.015835313
+1954,Protein,0.073634204
+1954,Fat,0.107680127
+1954,Saturated Fatty Acids,0.041963579
+1954,Monounsaturated Fatty Acids,0.041963579
+1954,Polyunsaturated Fatty Acids,0.014251781
+1954,Cholesterol,0.395882819
+1955,Carbohydrate,0.306845004
+1955,Fiber,0.015735641
+1955,Protein,0.073170732
+1955,Fat,0.110149489
+1955,Saturated Fatty Acids,0.043273013
+1955,Monounsaturated Fatty Acids,0.042486231
+1955,Polyunsaturated Fatty Acids,0.014948859
+1955,Cholesterol,0.393391031
+1956,Carbohydrate,0.303738318
+1956,Fiber,0.015576324
+1956,Protein,0.073987539
+1956,Fat,0.109813084
+1956,Saturated Fatty Acids,0.042834891
+1956,Monounsaturated Fatty Acids,0.042056075
+1956,Polyunsaturated Fatty Acids,0.014797508
+1956,Cholesterol,0.397196262
+1957,Carbohydrate,0.307445957
+1957,Fiber,0.01601281
+1957,Protein,0.074459568
+1957,Fat,0.10968775
+1957,Saturated Fatty Acids,0.043234588
+1957,Monounsaturated Fatty Acids,0.041633307
+1957,Polyunsaturated Fatty Acids,0.01521217
+1957,Cholesterol,0.392313851
+1958,Carbohydrate,0.312348668
+1958,Fiber,0.015334948
+1958,Protein,0.07425343
+1958,Fat,0.10976594
+1958,Saturated Fatty Acids,0.042776433
+1958,Monounsaturated Fatty Acids,0.042776433
+1958,Polyunsaturated Fatty Acids,0.015334948
+1958,Cholesterol,0.387409201
+1959,Carbohydrate,0.307386815
+1959,Fiber,0.015885624
+1959,Protein,0.073868149
+1959,Fat,0.111199365
+1959,Saturated Fatty Acids,0.042891183
+1959,Monounsaturated Fatty Acids,0.043685465
+1959,Polyunsaturated Fatty Acids,0.015885624
+1959,Cholesterol,0.389197776
+1960,Carbohydrate,0.314679643
+1960,Fiber,0.01540957
+1960,Protein,0.074614761
+1960,Fat,0.111922141
+1960,Saturated Fatty Acids,0.04298459
+1960,Monounsaturated Fatty Acids,0.04298459
+1960,Polyunsaturated Fatty Acids,0.0162206
+1960,Cholesterol,0.381184104
+1961,Carbohydrate,0.313868613
+1961,Fiber,0.01540957
+1961,Protein,0.075425791
+1961,Fat,0.111922141
+1961,Saturated Fatty Acids,0.04298459
+1961,Monounsaturated Fatty Acids,0.04298459
+1961,Polyunsaturated Fatty Acids,0.0162206
+1961,Cholesterol,0.381184104
+1962,Carbohydrate,0.313868613
+1962,Fiber,0.01540957
+1962,Protein,0.074614761
+1962,Fat,0.112733171
+1962,Saturated Fatty Acids,0.04298459
+1962,Monounsaturated Fatty Acids,0.04298459
+1962,Polyunsaturated Fatty Acids,0.0162206
+1962,Cholesterol,0.381184104
+1963,Carbohydrate,0.312045271
+1963,Fiber,0.015359741
+1963,Protein,0.075181892
+1963,Fat,0.113177041
+1963,Saturated Fatty Acids,0.042845594
+1963,Monounsaturated Fatty Acids,0.043654002
+1963,Polyunsaturated Fatty Acids,0.017784964
+1963,Cholesterol,0.379951496
+1964,Carbohydrate,0.310233683
+1964,Fiber,0.014504432
+1964,Protein,0.075745367
+1964,Fat,0.115229654
+1964,Saturated Fatty Acids,0.043513296
+1964,Monounsaturated Fatty Acids,0.044319098
+1964,Polyunsaturated Fatty Acids,0.017727639
+1964,Cholesterol,0.378726833
+1965,Carbohydrate,0.313773431
+1965,Fiber,0.014669927
+1965,Protein,0.075794621
+1965,Fat,0.115729421
+1965,Saturated Fatty Acids,0.043194784
+1965,Monounsaturated Fatty Acids,0.04400978
+1965,Polyunsaturated Fatty Acids,0.01792991
+1965,Cholesterol,0.374898126
+1966,Carbohydrate,0.313155771
+1966,Fiber,0.015334948
+1966,Protein,0.075867635
+1966,Fat,0.117029863
+1966,Saturated Fatty Acids,0.043583535
+1966,Monounsaturated Fatty Acids,0.04519774
+1966,Polyunsaturated Fatty Acids,0.018563358
+1966,Cholesterol,0.371267151
+1967,Carbohydrate,0.311553785
+1967,Fiber,0.015139442
+1967,Protein,0.075697211
+1967,Fat,0.116334661
+1967,Saturated Fatty Acids,0.043824701
+1967,Monounsaturated Fatty Acids,0.044621514
+1967,Polyunsaturated Fatty Acids,0.018326693
+1967,Cholesterol,0.374501992
+1968,Carbohydrate,0.31121643
+1968,Fiber,0.015007899
+1968,Protein,0.075829384
+1968,Fat,0.118483412
+1968,Saturated Fatty Acids,0.043443918
+1968,Monounsaturated Fatty Acids,0.045813586
+1968,Polyunsaturated Fatty Acids,0.018957346
+1968,Cholesterol,0.371248025
+1969,Carbohydrate,0.313091483
+1969,Fiber,0.014984227
+1969,Protein,0.075709779
+1969,Fat,0.117507886
+1969,Saturated Fatty Acids,0.043375394
+1969,Monounsaturated Fatty Acids,0.045741325
+1969,Polyunsaturated Fatty Acids,0.018927445
+1969,Cholesterol,0.370662461
+1970,Carbohydrate,0.315748031
+1970,Fiber,0.01496063
+1970,Protein,0.077165354
+1970,Fat,0.115748031
+1970,Saturated Fatty Acids,0.040944882
+1970,Monounsaturated Fatty Acids,0.045669291
+1970,Polyunsaturated Fatty Acids,0.019685039
+1970,Cholesterol,0.37007874
+1971,Carbohydrate,0.315499607
+1971,Fiber,0.014948859
+1971,Protein,0.077891424
+1971,Fat,0.115656963
+1971,Saturated Fatty Acids,0.040912667
+1971,Monounsaturated Fatty Acids,0.04563336
+1971,Polyunsaturated Fatty Acids,0.019669552
+1971,Cholesterol,0.369787569
+1972,Carbohydrate,0.314490446
+1972,Fiber,0.015127389
+1972,Protein,0.078025478
+1972,Fat,0.117834395
+1972,Saturated Fatty Acids,0.041401274
+1972,Monounsaturated Fatty Acids,0.046178344
+1972,Polyunsaturated Fatty Acids,0.020700637
+1972,Cholesterol,0.366242038
+1973,Carbohydrate,0.324696356
+1973,Fiber,0.016194332
+1973,Protein,0.077732794
+1973,Fat,0.11659919
+1973,Saturated Fatty Acids,0.04048583
+1973,Monounsaturated Fatty Acids,0.046153846
+1973,Polyunsaturated Fatty Acids,0.021862348
+1973,Cholesterol,0.356275304
+1974,Carbohydrate,0.320877335
+1974,Fiber,0.015434606
+1974,Protein,0.078797725
+1974,Fat,0.118602762
+1974,Saturated Fatty Acids,0.040617384
+1974,Monounsaturated Fatty Acids,0.046303818
+1974,Polyunsaturated Fatty Acids,0.021933387
+1974,Cholesterol,0.357432981
+1975,Carbohydrate,0.298789713
+1975,Fiber,0.015128593
+1975,Protein,0.083963691
+1975,Fat,0.121028744
+1975,Saturated Fatty Acids,0.042360061
+1975,Monounsaturated Fatty Acids,0.047655068
+1975,Polyunsaturated Fatty Acids,0.020423601
+1975,Cholesterol,0.37065053
+1976,Carbohydrate,0.2996337
+1976,Fiber,0.014652015
+1976,Protein,0.084981685
+1976,Fat,0.121611722
+1976,Saturated Fatty Acids,0.042490842
+1976,Monounsaturated Fatty Acids,0.049084249
+1976,Polyunsaturated Fatty Acids,0.021245421
+1976,Cholesterol,0.366300366
+1977,Carbohydrate,0.304886944
+1977,Fiber,0.016046681
+1977,Protein,0.085339168
+1977,Fat,0.11889132
+1977,Saturated Fatty Acids,0.041575492
+1977,Monounsaturated Fatty Acids,0.047410649
+1977,Polyunsaturated Fatty Acids,0.021152443
+1977,Cholesterol,0.364697301
+1978,Carbohydrate,0.302013423
+1978,Fiber,0.014914243
+1978,Protein,0.084265474
+1978,Fat,0.121551081
+1978,Saturated Fatty Acids,0.041759881
+1978,Monounsaturated Fatty Acids,0.04847129
+1978,Polyunsaturated Fatty Acids,0.021625652
+1978,Cholesterol,0.365398956
+1979,Carbohydrate,0.302985075
+1979,Fiber,0.014925373
+1979,Protein,0.08358209
+1979,Fat,0.120895522
+1979,Saturated Fatty Acids,0.041791045
+1979,Monounsaturated Fatty Acids,0.048507463
+1979,Polyunsaturated Fatty Acids,0.021641791
+1979,Cholesterol,0.365671642
+1980,Carbohydrate,0.304250559
+1980,Fiber,0.014914243
+1980,Protein,0.082774049
+1980,Fat,0.120805369
+1980,Saturated Fatty Acids,0.041759881
+1980,Monounsaturated Fatty Acids,0.04847129
+1980,Polyunsaturated Fatty Acids,0.021625652
+1980,Cholesterol,0.365398956
+1981,Carbohydrate,0.30952381
+1981,Fiber,0.016369048
+1981,Protein,0.084077381
+1981,Fat,0.120535714
+1981,Saturated Fatty Acids,0.041666667
+1981,Monounsaturated Fatty Acids,0.048363095
+1981,Polyunsaturated Fatty Acids,0.022321429
+1981,Cholesterol,0.357142857
+1982,Carbohydrate,0.308208955
+1982,Fiber,0.01641791
+1982,Protein,0.084328358
+1982,Fat,0.120895522
+1982,Saturated Fatty Acids,0.041044776
+1982,Monounsaturated Fatty Acids,0.048507463
+1982,Polyunsaturated Fatty Acids,0.02238806
+1982,Cholesterol,0.358208955
+1983,Carbohydrate,0.30454207
+1983,Fiber,0.015636634
+1983,Protein,0.084139985
+1983,Fat,0.123603872
+1983,Saturated Fatty Acids,0.042442293
+1983,Monounsaturated Fatty Acids,0.049143708
+1983,Polyunsaturated Fatty Acids,0.023082651
+1983,Cholesterol,0.357408786
+1984,Carbohydrate,0.303649635
+1984,Fiber,0.015328467
+1984,Protein,0.083211679
+1984,Fat,0.124087591
+1984,Saturated Fatty Acids,0.043065693
+1984,Monounsaturated Fatty Acids,0.050364964
+1984,Polyunsaturated Fatty Acids,0.022627737
+1984,Cholesterol,0.357664234
+1985,Carbohydrate,0.308351178
+1985,Fiber,0.015703069
+1985,Protein,0.083511777
+1985,Fat,0.125624554
+1985,Saturated Fatty Acids,0.043540328
+1985,Monounsaturated Fatty Acids,0.050678087
+1985,Polyunsaturated Fatty Acids,0.022840828
+1985,Cholesterol,0.349750178
+1986,Carbohydrate,0.309879176
+1986,Fiber,0.015636105
+1986,Protein,0.083866382
+1986,Fat,0.125799574
+1986,Saturated Fatty Acids,0.043354655
+1986,Monounsaturated Fatty Acids,0.050461976
+1986,Polyunsaturated Fatty Acids,0.022743426
+1986,Cholesterol,0.348258706
+1987,Carbohydrate,0.319543509
+1987,Fiber,0.015691869
+1987,Protein,0.083452211
+1987,Fat,0.124108417
+1987,Saturated Fatty Acids,0.042082739
+1987,Monounsaturated Fatty Acids,0.049928673
+1987,Polyunsaturated Fatty Acids,0.022824536
+1987,Cholesterol,0.342368046
+1988,Carbohydrate,0.323592302
+1988,Fiber,0.016393443
+1988,Protein,0.084105488
+1988,Fat,0.124732716
+1988,Saturated Fatty Acids,0.042052744
+1988,Monounsaturated Fatty Acids,0.050605845
+1988,Polyunsaturated Fatty Acids,0.023521026
+1988,Cholesterol,0.334996436
+1989,Carbohydrate,0.328011611
+1989,Fiber,0.016690856
+1989,Protein,0.08490566
+1989,Fat,0.122641509
+1989,Saturated Fatty Acids,0.041364296
+1989,Monounsaturated Fatty Acids,0.04934688
+1989,Polyunsaturated Fatty Acids,0.023222061
+1989,Cholesterol,0.333817126
+1990,Carbohydrate,0.335965542
+1990,Fiber,0.017229002
+1990,Protein,0.084709261
+1990,Fat,0.11988514
+1990,Saturated Fatty Acids,0.040201005
+1990,Monounsaturated Fatty Acids,0.048815506
+1990,Polyunsaturated Fatty Acids,0.022972003
+1990,Cholesterol,0.330222541
+1991,Carbohydrate,0.339840926
+1991,Fiber,0.017353579
+1991,Protein,0.08604483
+1991,Fat,0.118582791
+1991,Saturated Fatty Acids,0.039768619
+1991,Monounsaturated Fatty Acids,0.04989154
+1991,Polyunsaturated Fatty Acids,0.023138106
+1991,Cholesterol,0.32537961
+1992,Carbohydrate,0.337134711
+1992,Fiber,0.017106201
+1992,Protein,0.085531005
+1992,Fat,0.119743407
+1992,Saturated Fatty Acids,0.039914469
+1992,Monounsaturated Fatty Acids,0.049893086
+1992,Polyunsaturated Fatty Acids,0.022808268
+1992,Cholesterol,0.327868852
+1993,Carbohydrate,0.342067989
+1993,Fiber,0.016997167
+1993,Protein,0.084985836
+1993,Fat,0.121813031
+1993,Saturated Fatty Acids,0.040368272
+1993,Monounsaturated Fatty Acids,0.051699717
+1993,Polyunsaturated Fatty Acids,0.023371105
+1993,Cholesterol,0.318696884
+1994,Carbohydrate,0.343377715
+1994,Fiber,0.0168185
+1994,Protein,0.085494043
+1994,Fat,0.119131044
+1994,Saturated Fatty Acids,0.039243167
+1994,Monounsaturated Fatty Acids,0.051156272
+1994,Polyunsaturated Fatty Acids,0.022424667
+1994,Cholesterol,0.32235459
+1995,Carbohydrate,0.344585091
+1995,Fiber,0.016877637
+1995,Protein,0.085091421
+1995,Fat,0.11814346
+1995,Saturated Fatty Acids,0.039381153
+1995,Monounsaturated Fatty Acids,0.049929677
+1995,Polyunsaturated Fatty Acids,0.022503516
+1995,Cholesterol,0.323488045
+1996,Carbohydrate,0.34965035
+1996,Fiber,0.017482517
+1996,Protein,0.085314685
+1996,Fat,0.116083916
+1996,Saturated Fatty Acids,0.038461538
+1996,Monounsaturated Fatty Acids,0.04965035
+1996,Polyunsaturated Fatty Acids,0.021678322
+1996,Cholesterol,0.321678322
+1997,Carbohydrate,0.354225352
+1997,Fiber,0.017605634
+1997,Protein,0.085211268
+1997,Fat,0.116197183
+1997,Saturated Fatty Acids,0.038028169
+1997,Monounsaturated Fatty Acids,0.049295775
+1997,Polyunsaturated Fatty Acids,0.022535211
+1997,Cholesterol,0.316901408
+1998,Carbohydrate,0.35097493
+1998,Fiber,0.016713092
+1998,Protein,0.084958217
+1998,Fat,0.116295265
+1998,Saturated Fatty Acids,0.038997214
+1998,Monounsaturated Fatty Acids,0.049442897
+1998,Polyunsaturated Fatty Acids,0.022284123
+1998,Cholesterol,0.320334262
+1999,Carbohydrate,0.34375
+1999,Fiber,0.016983696
+1999,Protein,0.08423913
+1999,Fat,0.117527174
+1999,Saturated Fatty Acids,0.039402174
+1999,Monounsaturated Fatty Acids,0.049592391
+1999,Polyunsaturated Fatty Acids,0.022418478
+1999,Cholesterol,0.326086957
+2000,Carbohydrate,0.337341349
+2000,Fiber,0.016700067
+2000,Protein,0.082832331
+2000,Fat,0.12758851
+2000,Saturated Fatty Acids,0.041416166
+2000,Monounsaturated Fatty Acids,0.055444222
+2000,Polyunsaturated Fatty Acids,0.024716099
+2000,Cholesterol,0.313961256
+2001,Carbohydrate,0.335345406
+2001,Fiber,0.016096579
+2001,Protein,0.081824279
+2001,Fat,0.128772636
+2001,Saturated Fatty Acids,0.04091214
+2001,Monounsaturated Fatty Acids,0.056338028
+2001,Polyunsaturated Fatty Acids,0.025486251
+2001,Cholesterol,0.315224681
+2002,Carbohydrate,0.327597617
+2002,Fiber,0.015883521
+2002,Protein,0.081403044
+2002,Fat,0.13170086
+2002,Saturated Fatty Acids,0.041694242
+2002,Monounsaturated Fatty Acids,0.057577763
+2002,Polyunsaturated Fatty Acids,0.026472535
+2002,Cholesterol,0.317670417
+2003,Carbohydrate,0.324966975
+2003,Fiber,0.015852048
+2003,Protein,0.081902246
+2003,Fat,0.1334214
+2003,Saturated Fatty Acids,0.042272127
+2003,Monounsaturated Fatty Acids,0.058124174
+2003,Polyunsaturated Fatty Acids,0.026420079
+2003,Cholesterol,0.317040951
+2004,Carbohydrate,0.321967213
+2004,Fiber,0.016393443
+2004,Protein,0.081967213
+2004,Fat,0.132459016
+2004,Saturated Fatty Acids,0.041967213
+2004,Monounsaturated Fatty Acids,0.057704918
+2004,Polyunsaturated Fatty Acids,0.026229508
+2004,Cholesterol,0.321311475
+2005,Carbohydrate,0.328619529
+2005,Fiber,0.016835017
+2005,Protein,0.082828283
+2005,Fat,0.130639731
+2005,Saturated Fatty Acids,0.041077441
+2005,Monounsaturated Fatty Acids,0.056565657
+2005,Polyunsaturated Fatty Acids,0.026936027
+2005,Cholesterol,0.316498316
+2006,Carbohydrate,0.324197861
+2006,Fiber,0.01671123
+2006,Protein,0.082887701
+2006,Fat,0.131016043
+2006,Saturated Fatty Acids,0.04144385
+2006,Monounsaturated Fatty Acids,0.055481283
+2006,Polyunsaturated Fatty Acids,0.027406417
+2006,Cholesterol,0.320855615
+2007,Carbohydrate,0.324543611
+2007,Fiber,0.016227181
+2007,Protein,0.0831643
+2007,Fat,0.132521974
+2007,Saturated Fatty Acids,0.041244084
+2007,Monounsaturated Fatty Acids,0.055442867
+2007,Polyunsaturated Fatty Acids,0.029073698
+2007,Cholesterol,0.317782285
+2008,Carbohydrate,0.324728261
+2008,Fiber,0.016304348
+2008,Protein,0.082201087
+2008,Fat,0.131793478
+2008,Saturated Fatty Acids,0.04076087
+2008,Monounsaturated Fatty Acids,0.054347826
+2008,Polyunsaturated Fatty Acids,0.030570652
+2008,Cholesterol,0.319293478
+2009,Carbohydrate,0.328451883
+2009,Fiber,0.016736402
+2009,Protein,0.083682008
+2009,Fat,0.129009763
+2009,Saturated Fatty Acids,0.039748954
+2009,Monounsaturated Fatty Acids,0.052301255
+2009,Polyunsaturated Fatty Acids,0.029288703
+2009,Cholesterol,0.320781032
+2010,Carbohydrate,0.327122153
+2010,Fiber,0.017253278
+2010,Protein,0.082815735
+2010,Fat,0.131124914
+2010,Saturated Fatty Acids,0.040717736
+2010,Monounsaturated Fatty Acids,0.053140097
+2010,Polyunsaturated Fatty Acids,0.030365769
+2010,Cholesterol,0.317460317
